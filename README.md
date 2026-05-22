@@ -1,6 +1,6 @@
 # intro-to-github
 - **Name:** Ayesha Rehman
-- **Course Name:** Intro to AI / Database Systems Lab
+- **Course Name:**  Database Systems Lab
 
 Hi! I am a BSAI student at ITU. I am exploring version control and open-source collaboration through GitHub.
 
